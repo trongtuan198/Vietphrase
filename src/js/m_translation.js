@@ -385,6 +385,17 @@ export function performTranslation(state, options = {}) {
   finalContainer.innerHTML = finalHtml;
 
   DOMElements.outputPanel.innerHTML = finalContainer.innerHTML;
+
+  // Kiểm tra nếu người dùng TẮT tùy chọn giữ vị trí cuộn thì đưa thanh cuộn về đầu (0)
+  const savedSettings = JSON.parse(localStorage.getItem('displaySettings') || '{}');
+  // Mặc định là false (TẮT). Nếu người dùng BẬT (true) thì keepScroll = true.
+  const keepScroll = savedSettings.keepScroll || false;
+
+  // Nếu KHÔNG bật giữ vị trí cuộn (tức là TẮT), thì cuộn về đầu (0)
+  if (!keepScroll) {
+    DOMElements.outputPanel.scrollTop = 0;
+  }
+
   if (!options.preserveTempDict) {
     temporaryNameDictionary.clear();
   }

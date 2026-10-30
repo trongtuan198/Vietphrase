@@ -23,7 +23,8 @@ let settings = {
   textColor: '#f7b7b7',
   fontFamily: "Arial, 'Inter', 'Segoe UI', sans-serif",
   lineHeight: 1.6,
-  width: 1400
+  width: 1400,
+  keepScroll: false
 };
 
 // Lưu cài đặt vào localStorage
@@ -50,6 +51,12 @@ function applySettings() {
     mainContainer.style.maxWidth = `${settings.width}px`;
     widthSlider.value = settings.width;
     widthInput.value = settings.width;
+  }
+
+  // Cập nhật trạng thái checkbox cài đặt cuộn
+  const keepScrollToggle = document.getElementById('keep-scroll-toggle');
+  if (keepScrollToggle) {
+    keepScrollToggle.checked = settings.keepScroll;
   }
 }
 
@@ -91,6 +98,16 @@ export function initializeSettings() {
       settingsPanel.classList.add('hidden');
     }
   });
+
+  // Xử lý tùy chọn Giữ vị trí cuộn Kết Quả Dịch
+  const keepScrollToggle = document.getElementById('keep-scroll-toggle');
+  if (keepScrollToggle) {
+    keepScrollToggle.addEventListener('change', (e) => {
+      settings.keepScroll = e.target.checked;
+      applySettings();
+      saveSettings();
+    });
+  }
 
   // Xử lý chọn màu nền
   bgColorPresets.addEventListener('click', (e) => {
