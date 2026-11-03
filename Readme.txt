@@ -1,0 +1,40 @@
+=====================================================================
+Phím tắt
+Ctrl + Shift + D | Tải Kết quả dịch
+Ctrl + Shift + K | Tải NameList
+Ctrl + Alt + D | Dán và dịch
+
+=====================================================================
+Định dạng nội dung file từ điển
+  
+1. Cấu Trúc Dòng Cơ Bản
+[Tiếng Trung]=[Nghĩa Tiếng Việt]
+- Phải chính xác một dấu = trên mỗi dòng định nghĩa. Dòng không có dấu = hoặc có nhiều hơn một dấu = sẽ bị bỏ qua.
+
+2. Phân tách cho các nghĩa: Dấu ; và /
+VÍ DỤ:
+走=đi;tẩu/chạy
+走 có 3 nghĩa là "đi", "tẩu", và "chạy".
+
+3. Ghi chú: Dùng # (Hệ thống sẽ bỏ qua và không tính là phần dịch)
+Ví Dụ:
+# Đây là khu vực dịch tên nhân vật
+李白=Lý Bạch
+
+4. LuatNhan
+{0}[Trung]={0}[Viet]
+{0} ở đây là Dạng Vietphrase [A]=[B]
+
+Ví Dụ
+LuatNhan: 与{0}为敌为友=cùng {0} là địch là bạn
+Vietphrase: 云逆=Vân Nghịch
+Kết quả: 与云逆为敌为友=cùng Vân Nghịch là địch là bạn
+
+=> {0} Sẽ tự động lấy nội dung trong từ điển để thêm vào luatnhan
+
+Add new files
+1. m_dictionary.js [ const DICTIONARY_FILES ...]
+2. m_nameList.js [  const priorityOrder = .... ]
+TÙY CHỌN
+3.THÊM TRONG m_dictionary-worker.js [const dictionariesToStandardize = new Set([... ] (XỬ LÝ KHOẢNG TRẮNG)
+=====================================================================
