@@ -1870,7 +1870,7 @@
 燈=đèn
 簦=đăng
 蹬=đạp/đặng
-等=chờ/cùng/các loại/mấy người/mấy cái/vân vân
+等=chờ/vân vân/các loại/cùng/mấy người/mấy cái
 戥=đẳng
 邓=đặng
 凳=băng ghế/đắng/ghế
