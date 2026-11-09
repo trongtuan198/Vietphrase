@@ -15,7 +15,6 @@
 耏=nhi
 耐=nại
 耑=chuyên
-đoan
 耒=lỗi
 耔=tỷ
 耕=canh
@@ -4865,7 +4864,6 @@
 颊=giáp
 颋=đĩnh
 夏=hạ
-侯=hầu
 颌=cáp
 颍=toánh
 颎=quýnh
@@ -5163,8 +5161,6 @@
 駭=hãi
 駮=bác
 駰=nhân
-呼=hô
-延=diên
 駱=lạc
 駲=châu
 駷=tủng
@@ -5251,7 +5247,6 @@
 驩=hoan
 驪=ly
 驫=bưu
-马=mã
 驭=ngự
 驮=đà
 驯=tuần
@@ -7901,7 +7896,6 @@
 叵=phả
 叶=diệp
 号=hào
-司=ti
 叹=thán
 叻=lặc
 叼=điêu
@@ -8975,7 +8969,6 @@
 夋=xuân
 夌=lăng
 复=phục
-夏=hạ
 夐=quýnh
 夑=tiếp
 夒=nao
@@ -10398,7 +10391,6 @@
 怂=túng
 怃=vũ
 怄=âu
-=đắm
 怅=trướng
 怆=sảng
 怊=siêu
@@ -10422,7 +10414,6 @@
 怟=kỳ
 怠=đãi
 怡=di
-=trời
 怢=đột
 怣=vưu
 急=cấp
@@ -10519,7 +10510,6 @@
 悙=hanh
 悚=tủng
 悛=thuân
-=dệt
 悝=khôi
 悞=ngộ
 悟=ngộ
@@ -10546,7 +10536,6 @@
 悶=muộn
 悸=quý
 悹=quán
-=khá
 悺=quán
 悻=hãnh
 悼=điệu
@@ -10566,21 +10555,16 @@
 惑=hoặc
 惓=quyền
 惔=đàm
-=đón
 惕=dịch
-=đức
 惗=nghiệt
 惘=võng
-=đuổi
 惙=tuyết
-=ê
 惚=hốt
 惛=hôn
 惜=tích
 惝=thảng
 惞=hân
 惟=duy
-=gìn
 惠=huệ
 惡=ác
 惢=nhị
@@ -10612,10 +10596,8 @@
 惼=biển
 惽=hôn
 惾=tông
-=dừa
 愀=thiểu
 愁=sầu
-=phong
 愃=huyên
 愄=úy
 愆=khiên
@@ -10665,7 +10647,6 @@
 慂=dũng
 慄=lật
 慅=tao
-=đoàn
 慆=thao
 慇=ân
 慈=từ
@@ -10974,7 +10955,6 @@
 拆=sách
 拇=mẫu
 拈=niêm
-=hằng
 拉=lạp
 拊=phụ
 拋=phao
@@ -11127,7 +11107,6 @@
 捻=niệp
 捼=noa
 捽=tốt
-=đang
 掀=hiên
 掂=điêm
 掃=tảo
@@ -12132,7 +12111,6 @@
 桂=quế
 桃=đào
 桄=quáng
-=hân
 桅=ngôi
 框=khuông
 案=án
@@ -15103,8 +15081,6 @@
 睮=du
 睯=hôn
 睱=hiệp
-诸=gia
-葛=cát
 睴=huân
 睸=mý
 睹=đổ
@@ -15853,7 +15829,6 @@
 笨=bổn
 笪=đát
 笫=chỉ
-第=đệ
 笭=linh
 笮=trách
 笯=nô

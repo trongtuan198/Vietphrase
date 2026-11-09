@@ -8692,7 +8692,7 @@
 鑠=thước
 厶=khư
 丝=ti/tia/tơ/tơ tằm
-司=ti/tư/ty/Tư
+司=tư/ty/ti/Tư
 私=tư
 咝=ti/ư
 俬=cụ
@@ -12434,7 +12434,7 @@
 茱=thù
 株=gốc/gốc cây/bụi cây/cây
 珠=châu
-诸=chư
+诸=chư/gia
 猪=heo/lợn
 硃=chu
 铢=thù
