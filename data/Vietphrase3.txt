@@ -55150,7 +55150,7 @@
 坤甯宫中心=trong cung Khôn Nịnh
 坤甯宫中央=trong cung Khôn Nịnh
 昆仑的敌意=địch ý của Côn Luân/địch ý của Côn Lôn
-昆仑山脚下=dưới chân núi Côn Lôn
+昆仑山脚下=dưới chân núi Côn Luân
 捆绑上他的=buộc chặt hắn
 捆绑在一起=buộc chung một chỗ
 捆的太紧了=trói quá chặt
@@ -155045,7 +155045,7 @@
 在快速流逝=đang trôi qua nhanh chóng
 在宽限几日=gia hạn thêm mấy ngày
 在宽衣解带=đang cởi áo nới dây lưng
-在昆仑山上=ở trên núi Côn Lôn
+在昆仑山上=ở trên núi Côn Luân
 在垃圾场里=trong chỗ đổ rác
 在垃圾堆里=bươi đống rác/trong đống rác/ở trong đống rác
 在垃圾箱中=ở trong thùng rác
@@ -209907,7 +209907,7 @@
 魁梧青年手中=trong tay thanh niên khôi ngô
 魁梧中年大汉=đại hán trung niên khôi ngô
 魁梧中年人的=người trung niên khôi ngô
-昆仑山脉之中=trong dãy núi Côn Lôn
+昆仑山脉之中=trong dãy núi Côn Luân
 捆绑她的绳索=giây thừng trói chặt nàng
 捆绑在了树上=trói lên cây
 捆绑在了一起=trói chung một chỗ

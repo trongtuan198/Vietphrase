@@ -6114,7 +6114,7 @@
 鋝=luyệt
 抡=vung mạnh/kén/chọn/xoay
 掄=kén/chọn/xoay
-仑=luân
+仑=luân/lôn
 伦=luân
 囵=luân
 沦=luân
@@ -75073,7 +75073,7 @@
 昆季=anh em
 昆剧=côn kịch
 昆卡=Côn Tạp
-昆仑=Côn Lôn/Côn Luân
+昆仑=Côn Luân
 昆明=Côn Minh
 昆楠=Côn Nam
 昆腔=Côn khúc/tuồng Côn Sơn/Côn Sơn Xoang
@@ -293059,7 +293059,7 @@
 卡琳丝=Tạp Lâm Ti
 卡鲁尔=Tạp Lỗ Nhĩ
 卡路里=Ca-lo-ri/ca-lo-ri
-卡仑山=núi Garm/Tạp Lôn sơn
+卡仑山=Tạp Luân sơn/núi Garm
 卡罗尔=Tạp La Nhĩ
 卡罗拉=Tạp La Lạp/Carola
 卡罗牌=bài Tarrot
@@ -294839,7 +294839,7 @@
 科考船=khoa khảo thuyền
 科考队=đội khảo sát khoa học
 科类的=khoa loại
-科里仑=Khoa Lí Lôn
+科里仑=Khoa Lí Luân
 科林法=Colin
 科伦坡=Cô-lôm-bô/Colombo
 科迷城=khoa mê thành
@@ -298115,7 +298115,7 @@
 昆道人=Côn Đạo Nhân
 昆德拉=Kundera
 昆灵派=Côn Linh Phái
-昆仑派=phái Côn Lôn/phái Côn Luân
+昆仑派=phái Côn Luân/phái Côn Lôn
 昆仑山=Côn Luân Sơn/Côn Lôn Sơn/Côn lôn sơn
 昆特牌=bài Gwent
 昆吾剑=Côn Ngô Kiếm
@@ -402181,7 +402181,7 @@
 西京人=người Tây Kinh
 西客站=tây khách trạm
 西裤里=trong quần tây
-西昆仑=Tây Côn Lôn
+西昆仑=Tây Côn Luân
 西拉斯=Tây Lạp Tư
 西兰花=cây bông cải xanh/bông cải xanh
 西黎族=Tây Lê tộc

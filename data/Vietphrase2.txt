@@ -99197,11 +99197,11 @@
 坤元山脉=Khôn Nguyên sơn mạch
 昆蟲世界=thế giới côn trùng
 昆卡城中=trong thành Côn Tạp
-昆仑顶峰=đỉnh núi Côn Lôn
-昆仑山底=chân núi Côn Lôn
-昆仑山巅=đỉnh núi Côn Lôn
-昆仑山脚=chân núi Côn Lôn
-昆仑山脉=dãy núi Côn Lôn/dãy núi Côn Luân
+昆仑顶峰=đỉnh núi Côn Luân
+昆仑山底=chân núi Côn Luân
+昆仑山巅=đỉnh núi Côn Luân
+昆仑山脚=chân núi Côn Luân
+昆仑山脉=dãy núi Côn Luân
 昆仑之巅=đỉnh Côn Lôn
 昆木二字=hai chữ Côn Mộc/Côn Mộc hai chữ
 昆南军营=Côn Nam quân doanh
